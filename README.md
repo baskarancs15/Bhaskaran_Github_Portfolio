@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Bhaskaran </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Baskaran Krishnamurthy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 I'm an full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
